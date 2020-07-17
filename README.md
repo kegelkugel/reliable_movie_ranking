@@ -26,12 +26,6 @@ it suit your needs.
 
 ## Results as of 17 July 2020
 
-*The first number is the ranking on IMDb, in brackets is the
- corresponding rating.  The second number is the ranking on Rotten
- Tomatoes, in brackets is the corresponding score.  Then comes the year
- of the movie, its title, and a list of people associated with it
- (usually the producer and two main actors).*
-
 ```
 Movies appearing in the charts of IMDb and Rotten Tomatoes:
 IMDb   2. (9.1) RT 32. ( 98 %) 1972: The Godfather (Francis Ford Coppola (dir.), Marlon Brando, Al Pacino)
@@ -62,3 +56,12 @@ IMDb 226. (8.0) RT 33. ( 97 %) 2015: Spotlight (Tom McCarthy (dir.), Mark Ruffal
 IMDb 231. (8.0) RT 78. (100 %) 1940: Rebecca (Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine)
 IMDb 235. (8.0) RT 27. ( 98 %) 1934: It Happened One Night (Frank Capra (dir.), Clark Gable, Claudette Colbert)
 ```
+
+The first number is the ranking on IMDb, in brackets is the
+corresponding rating.  The second number is the ranking on Rotten
+Tomatoes, in brackets is the corresponding score.  Then comes the year
+of the movie, its title, and a list of people associated with it
+(usually the director and two main actors).
+
+This list does **not** reflect my personal taste.  It is an
+automatically created synthesis of two movie rankings on the internet.
